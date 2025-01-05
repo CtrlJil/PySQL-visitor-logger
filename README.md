@@ -1,8 +1,8 @@
-# PySQL-visitor-logger
+# PySQL-webvisitor-logger
 
 
-🚀 PySQL visitor logger – The Easiest Way to track Your Website Visitors!
-Ever wondered who’s visiting your website? 🕵️‍♂️ PySQL visitor logger is a simple, automated visitor tracking system built with Python, Flask, and SQL to log IP addresses, browser details, and timestamps—all without the hassle!
+🚀 PySQL webvisitor logger – The Easiest Way to track Your Website Visitors!
+Ever wondered who’s visiting your website? 🕵️‍♂️ PySQL webvisitor logger is a simple, automated visitor tracking system built with Python, Flask, and SQL to log IP addresses, browser details, and timestamps—all without the hassle!
 
 ✨ Features:
 ✅ Real-time visitor logging – Captures IPs & user agents instantly!
