@@ -1,14 +1,8 @@
 #install flask to handle http requests
 #install mysql-connector-python to interact with databases 
 pip install flask mysql-connector-python
-2️⃣ Create a Python Flask Server
-The Python script will:
 
-Capture visitor IP addresses and browser details.
-Store visitor data in MySQL.
-Work entirely using Python.
-python
-Copy code
+#Create a Python Flask Server
 from flask import Flask, request
 import mysql.connector
 
