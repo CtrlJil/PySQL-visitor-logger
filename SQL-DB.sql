@@ -1,9 +1,10 @@
-## Set Up the SQL Database to store visitors details 
+--Set Up the SQL Database to store visitors details
 
-#Create a Database
-sql
+--Create a Database
+
 CREATE DATABASE website_visitors;
-# Create a Table for Storing Visitor Data
+
+--Create a Table for Storing Visitor Data
 
 USE website_visitors;
 
